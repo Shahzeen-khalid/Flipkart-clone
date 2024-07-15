@@ -1,0 +1,77 @@
+body{
+    padding:0;
+    margin:0;
+    width: 100%;
+}
+/* .logo{
+height: 100px;
+padding-bottom: 60px;
+} */
+
+.image-container img{
+    width: 100%;
+    height: auto;
+}
+p {
+    font-size: 12px;
+}
+  /*@media screen and(min-width: 1400px) {
+    .navbar-form,navbar-left{
+        display: inline-block;
+        width: 40rem;
+      
+      
+    } 
+    .form-group{
+        padding-right: 700px;
+    }
+} */y
+.form-group{
+    width: 30vw;
+    margin-right: 20vw;
+}
+
+/* 
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;   
+
+} */
+/* @media screen {
+    .header{
+        margin-left: 100px;
+        margin-right: 100px;
+    
+    }
+} */
+ .btn{
+    border: none;
+    
+ }
+ /* .navbar navbar-default{
+    justify-content: none;
+   
+    gap: 2rem;
+ } */
+ .container-fluid nav-lbs{
+    justify-content: none;
+   
+    gap: 2rem;
+
+ }
+ .d-flex{
+    width:50%;
+ }
+ .footerlinks{
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+ }
+ .footerheading{
+    font-size: 14px;
+ }
+ .paymentlast{
+    font-size:12px;
+ }
+   
